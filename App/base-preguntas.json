@@ -1,0 +1,195 @@
+[
+    {
+        "categoria": "Quimica Basica",
+        "pregunta": "¿Cuál es el elemento químico con menor peso atómico?",
+        "respuesta": "El hidrógeno",
+        "incorrecta1": "Carbono",
+        "incorrecta2": "Nitrógeno",
+        "incorrecta3": "Oxígeno",
+        "imagen": "https://cdn.todamateria.com/imagenes/elemento-quimico-og.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Quimica Basica",
+        "pregunta": "¿Qué compuesto químico representa esta figura?",
+        "respuesta": "Acido clorhídrico",
+        "incorrecta1": "Ácido bromoso",
+        "incorrecta2": "Ácido crómico",
+        "incorrecta3": "Ácido hipobromoso",
+        "imagen": "https://www.lifeder.com/wp-content/uploads/2021/12/foto-acido-clorhidrico.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Quimica Basica",
+        "pregunta": "¿Cómo se llama este instrumento de laboratorio?",
+        "respuesta": "Mechero Bunsen",
+        "incorrecta1": "Microscopio",
+        "incorrecta2": "Portaobjetos",
+        "incorrecta3": "Pipeta",
+        "imagen": "https://www.lifeder.com/wp-content/uploads/2017/09/Mechero.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Quimica Basica",
+        "pregunta": "¿Cómo se llama la temperatura a la que una sustancia pasa de líquido a gas?",
+        "respuesta": "Punto de ebullición",
+        "incorrecta1": "escala centígrada",
+        "incorrecta2": "escala Rankine",
+        "incorrecta3": "escala Kelvin",
+        "imagen": "http://lh6.ggpht.com/-vqWUujOI1CY/Tf3xVkyumsI/AAAAAAAABXA/FAGrmgqOaaE/temperatura%25255B3%25255D.jpg?imgmax=800",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Quimica Basica",
+        "pregunta": "¿La quema de madera es un cambio físico o químico? ",
+        "respuesta": "Es un cambio químico",
+        "incorrecta1": "Es un cambio físico",
+        "incorrecta2": "Ninguno",
+        "imagen": "https://images.unsplash.com/photo-1614420789811-9ad5f160f5c0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHw%3D&w=1000&q=80",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Quimica Basica",
+        "pregunta": "¿Cuál es el símbolo químico de la Plata?",
+        "respuesta": "Ag",
+        "incorrecta1": "Pl",
+        "incorrecta2": "Hk",
+        "incorrecta3": "Ho",
+        "imagen": "https://www.caracteristicas.co/wp-content/uploads/2019/03/plata-5-e1587479152732.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Quimica Basica",
+        "pregunta": "¿Cómo se llaman los átomos que poseen carga positiva?",
+        "respuesta": "Cationes",
+        "incorrecta1": "Einsteinio",
+        "incorrecta2": "Rutherfordio",
+        "incorrecta3": "Dubnio",
+        "imagen": "https://uvn-brightspot.s3.amazonaws.com/assets/vixes/btg/curiosidades.batanga.com/files/de_que_se_componen_los_atomos5.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Quimica Basica",
+        "pregunta": "En una reacción química, los enlaces se rompen y se reforman entre diferentes átomos.¿Verdadero o falso?",
+        "respuesta": "Verdadero",
+        "incorrecta1": "Falso",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Quimica Basica",
+        "pregunta": "¿Arena y agua es un ejemplo de qué tipo de mezcla homogénea o heterogénea?",
+        "respuesta": "Heterogénea",
+        "incorrecta1": "homogénea",
+        "imagen": "https://media.istockphoto.com/photos/science-experiment-heterogeneous-mixture-of-water-and-sand-picture-id1170801227",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Quimica Basica",
+        "pregunta": "¿Quién es este químico inglés?",
+        "respuesta": "John Dalton",
+        "incorrecta1": "Frederic Kipping",
+        "incorrecta2": "Frederick Soddy",
+        "incorrecta3": "John Pople",
+        "imagen": "https://www.lifeder.com/wp-content/uploads/2017/05/john-dalton.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Quimica Basica",
+        "pregunta": "¿Qué tipo de reacción química absorbe energía y requiere energía para que ocurra la reacción? ",
+        "respuesta": "la endotérmica",
+        "incorrecta1": "la exotérmica",
+        "incorrecta2": "la espontánea",
+        "incorrecta3": "ninguna",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Quimica Basica",
+        "pregunta": "¿Qué elementos químicos componen el agua? ",
+        "respuesta": "Oxígeno",
+        "incorrecta1": "Aluminio",
+        "incorrecta2": "Magnesio",
+        "incorrecta3": "Sodio",
+        "imagen": "https://responsabilidadsocial.net/wp-content/uploads/2021/12/agua-que-es-definicion-caracteristicas-e-importancia.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Quimica Basica",
+        "pregunta": "Qué rama de la química estudia los procesos químicos que tienen lugar en los seres vivos? ",
+        "respuesta": "La bioquímica",
+        "incorrecta1": "La inorgánica",
+        "incorrecta2": "La industrial",
+        "incorrecta3": "Ninguna",
+        "imagen": "https://encolombia.com/wp-content/uploads/2021/09/Biologia.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Quimica Basica",
+        "pregunta": "¿Cómo se llama el agregado de dos o más átomos?",
+        "respuesta": "Molécula",
+        "incorrecta1": "Celula",
+        "incorrecta2": "Sangre",
+        "incorrecta3": "ADN",
+        "imagen": "https://concepto.de/wp-content/uploads/2018/08/Molecula1-e1535392280151.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Quimica Basica",
+        "pregunta": "¿Cómo se llama el cambio de estado de gas a líquido?",
+        "respuesta": "Condensación",
+        "incorrecta1": "Estado gaseoso",
+        "incorrecta2": "Ninguno",
+        "imagen": "http://culturacientifica.com/app/uploads/2017/08/modelo-simple-de-gas.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Quimica Basica",
+        "pregunta": "¿Qué químicos identificaron el polonio y el radio? ",
+        "respuesta": "Pierre y Marie Curie",
+        "incorrecta1": "Charles Romley Alder Wright y Marie Curie",
+        "incorrecta2": "Martha Ann y Marie Curie",
+        "incorrecta3": "William Henry y Marie Curie",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Pierre_Curie_et_Marie_Sklodowska_Curie_1895.jpg/170px-Pierre_Curie_et_Marie_Sklodowska_Curie_1895.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Quimica Basica",
+        "pregunta": "¿Quién propuso el modelo atómico mostrado en la imagen? ",
+        "respuesta": "modelo atómico de Bohr",
+        "incorrecta1": "Modelo atómico de Dalton ",
+        "incorrecta2": "Modelo atómico de Lewis",
+        "incorrecta3": "Modelo atómico de Thomson",
+        "imagen": "https://www.lifeder.com/wp-content/uploads/2018/02/modelo-at%C3%B3mico-de-Bohr-lifeder.png",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Quimica Basica",
+        "pregunta": "¿Cuál es el símbolo químico del Potasio?",
+        "respuesta": "Su símbolo químico es la K",
+        "incorrecta1": "Su símbolo químico es la P",
+        "incorrecta2": "Su símbolo químico es la S",
+        "imagen": "https://amhigo.com/images/actualidades/noticias/Nutricion/POTASIO-ALIMENTOS.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Quimica Basica",
+        "pregunta": "¿Quién descubrió la radiactividad?",
+        "respuesta": "Henri Becquerel",
+        "incorrecta1": "Cyril Norman",
+        "incorrecta2": "Peter Atkins",
+        "incorrecta3": "Robert Robinson",
+        "imagen": "https://www.nobelprize.org/images/becquerel-12834-portrait-medium.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Quimica Basica",
+        "pregunta": "¿Quién es este químico?",
+        "respuesta": "Louis Victor de Broglie",
+        "incorrecta1": "William Jackson Pope",
+        "incorrecta2": "Arthur Harden",
+        "incorrecta3": "William Odling",
+        "imagen": "https://www.lifeder.com/wp-content/uploads/2018/04/Louis_de_Broglie.jpg",
+        "objectFit": "cover"
+    }
+]
